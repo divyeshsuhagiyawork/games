@@ -24,7 +24,7 @@ const games = [
         "id": "safari-story-mahjong",
         "title": "Safari Story Mahjong",
         "category": ["Puzzle"],
-        "orientation": "landscape"
+        "orientation": "portrait"
     },
     {
         "id": "fun-race-3d",

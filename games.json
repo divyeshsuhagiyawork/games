@@ -51,7 +51,7 @@
         "thumbnail": "/fun-race-3d/thumbnail.png",
         "poster": "/fun-race-3d/poster.png",
         "category": [
-            "Racing",
+            "Arcade",
             "3D"
         ],
         "orientation": "portrait"
@@ -86,6 +86,65 @@
         "poster": "/3d-free-kick-world-cup-18/poster.png",
         "category": [
             "Sports"
+        ],
+        "orientation": "landscape"
+    },
+    {
+        "id": "slignshot-fortress",
+        "title": "Slignshot Fortress",
+        "src": "/slignshot-fortress/index.html",
+        "thumbnail": "/slignshot-fortress/thumbnail.png",
+        "poster": "/slignshot-fortress/poster.png",
+        "category": [
+            "Action",
+            "Shooting"
+        ],
+        "orientation": "landscape"
+    },
+    {
+        "id": "fragen",
+        "title": "Fragen",
+        "src": "/fragen/index.html",
+        "thumbnail": "/fragen/thumbnail.png",
+        "poster": "/fragen/poster.png",
+        "category": [
+            "Action",
+            "Shooting"
+        ],
+        "orientation": "landscape"
+    },
+    {
+        "id": "get-to-the-chopper",
+        "title": "Get To The Chopper",
+        "src": "/get-to-the-chopper/index.html",
+        "thumbnail": "/get-to-the-chopper/thumbnail.png",
+        "poster": "/get-to-the-chopper/poster.png",
+        "category": [
+            "Action",
+            "Shooting"
+        ],
+        "orientation": "landscape"
+    },
+    {
+        "id": "hazmob-fps",
+        "title": "Hasmob FPS",
+        "src": "/hazmob-fps/index.html",
+        "thumbnail": "/hazmob-fps/thumbnail.png",
+        "poster": "/hazmob-fps/poster.png",
+        "category": [
+            "Action",
+            "Shooting"
+        ],
+        "orientation": "landscape"
+    },
+    {
+        "id": "slice-it-all",
+        "title": "Slice It All",
+        "src": "/slice-it-all/index.html",
+        "thumbnail": "/slice-it-all/thumbnail.png",
+        "poster": "/slice-it-all/poster.png",
+        "category": [
+            "Arcade"
         ],
         "orientation": "landscape"
     }

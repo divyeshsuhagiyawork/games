@@ -29,7 +29,7 @@ const games = [
     {
         "id": "fun-race-3d",
         "title": "Fun Race 3D",
-        "category": ["Racing", "3D"],
+        "category": ["Arcade", "3D"],
         "orientation": "portrait"
     },
     {
@@ -48,6 +48,36 @@ const games = [
         "id": "3d-free-kick-world-cup-18",
         "title": "3D Free Kick World Cup 18",
         "category": ["Sports"],
+        "orientation": "landscape"
+    },
+    {
+        "id": "slignshot-fortress",
+        "title": "Slignshot Fortress",
+        "category": ["Action", "Shooting"],
+        "orientation": "landscape"
+    },
+    {
+        "id": "fragen",
+        "title": "Fragen",
+        "category": ["Action", "Shooting"],
+        "orientation": "landscape"
+    },
+    {
+        "id": "get-to-the-chopper",
+        "title": "Get To The Chopper",
+        "category": ["Action", "Shooting"],
+        "orientation": "landscape"
+    },
+    {
+        "id": "hazmob-fps",
+        "title": "Hasmob FPS",
+        "category": ["Action", "Shooting"],
+        "orientation": "landscape"
+    },
+    {
+        "id": "slice-it-all",
+        "title": "Slice It All",
+        "category": ["Arcade"],
         "orientation": "landscape"
     },
 ]

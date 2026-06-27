@@ -78,7 +78,19 @@ const games = [
         "id": "slice-it-all",
         "title": "Slice It All",
         "category": ["Arcade"],
-        "orientation": "landscape"
+        "orientation": "portrait"
+    },
+    {
+        "id": "rescue-girl",
+        "title": "Rescue Girl",
+        "category": ["Puzzle"],
+        "orientation": "portrait"
+    },
+    {
+        "id": "home-pin-1",
+        "title": "Home Pin 1",
+        "category": ["Puzzle"],
+        "orientation": "portrait"
     },
 ]
 // Output file

@@ -102,18 +102,6 @@
         "orientation": "landscape"
     },
     {
-        "id": "fragen",
-        "title": "Fragen",
-        "src": "/fragen/index.html",
-        "thumbnail": "/fragen/thumbnail.png",
-        "poster": "/fragen/poster.png",
-        "category": [
-            "Action",
-            "Shooting"
-        ],
-        "orientation": "landscape"
-    },
-    {
         "id": "get-to-the-chopper",
         "title": "Get To The Chopper",
         "src": "/get-to-the-chopper/index.html",
@@ -146,6 +134,6 @@
         "category": [
             "Arcade"
         ],
-        "orientation": "landscape"
+        "orientation": "portrait"
     }
 ]

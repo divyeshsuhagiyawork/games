@@ -102,6 +102,18 @@
         "orientation": "landscape"
     },
     {
+        "id": "fragen",
+        "title": "Fragen",
+        "src": "/fragen/index.html",
+        "thumbnail": "/fragen/thumbnail.png",
+        "poster": "/fragen/poster.png",
+        "category": [
+            "Action",
+            "Shooting"
+        ],
+        "orientation": "landscape"
+    },
+    {
         "id": "get-to-the-chopper",
         "title": "Get To The Chopper",
         "src": "/get-to-the-chopper/index.html",
@@ -133,6 +145,28 @@
         "poster": "/slice-it-all/poster.png",
         "category": [
             "Arcade"
+        ],
+        "orientation": "portrait"
+    },
+    {
+        "id": "rescue-girl",
+        "title": "Rescue Girl",
+        "src": "/rescue-girl/index.html",
+        "thumbnail": "/rescue-girl/thumbnail.png",
+        "poster": "/rescue-girl/poster.png",
+        "category": [
+            "Puzzle"
+        ],
+        "orientation": "portrait"
+    },
+    {
+        "id": "home-pin-1",
+        "title": "Home Pin 1",
+        "src": "/home-pin-1/index.html",
+        "thumbnail": "/home-pin-1/thumbnail.png",
+        "poster": "/home-pin-1/poster.png",
+        "category": [
+            "Puzzle"
         ],
         "orientation": "portrait"
     }

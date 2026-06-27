@@ -51,7 +51,7 @@ const games = [
         "orientation": "landscape"
     },
     {
-        "id": "slignshot-fortress",
+        "id": "slingshot-fortress",
         "title": "Slignshot Fortress",
         "category": ["Action", "Shooting"],
         "orientation": "landscape"

@@ -90,11 +90,11 @@
         "orientation": "landscape"
     },
     {
-        "id": "slignshot-fortress",
+        "id": "slingshot-fortress",
         "title": "Slignshot Fortress",
-        "src": "/slignshot-fortress/index.html",
-        "thumbnail": "/slignshot-fortress/thumbnail.png",
-        "poster": "/slignshot-fortress/poster.png",
+        "src": "/slingshot-fortress/index.html",
+        "thumbnail": "/slingshot-fortress/thumbnail.png",
+        "poster": "/slingshot-fortress/poster.png",
         "category": [
             "Action",
             "Shooting"
